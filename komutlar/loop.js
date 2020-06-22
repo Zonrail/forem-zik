@@ -1,4 +1,4 @@
-const { music_handler } = require("../../bot.js");
+const { music_handler } = require("../bot.js");
 
 module.exports.execute = async (client, message, args) => {
 
