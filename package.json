@@ -15,7 +15,6 @@
     "fs": "^0.0.2",
      "chalk": "^3.0.0",
     "jimp": "^0.9.3",
-    "ffmpeg": "2.0.0",
     "moment": "^2.24.0",
     "moment-duration-format": "^2.2.2",
     "node-superfetch": "^0.1.10",
